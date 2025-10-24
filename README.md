@@ -1,5 +1,3 @@
-> 🛑🛑 You're viewing the legacy version. macOS Web has moved over to Svelte! Check out here: [PuruVJ/macos-web](https://github.com/puruvj/macos-web) 🛑🛑
-
 # Mac OS Monterey Web
 
 This open source project aims to replicate some of the Mac OS(Moneterey, at the time)'s desktop experience on web, using standard web technologies like HTML, CSS and JS
@@ -8,7 +6,7 @@ This open source project aims to replicate some of the Mac OS(Moneterey, at the 
 
 # Why
 
-I've always been very fascinated with macOS, and have never owned a Mac/book. So I'm making the most beautiful aspect of macOS, it's desktop, myself. For web. Inspired from [WinXP](https://winxp.now.sh/).
+I've always been very fascinated with macOS, and have never owned a Mac/book. So I'm making the most beautiful aspect of macOS, it's desktop, myself.
 
 # Stack
 
@@ -17,11 +15,9 @@ I've always been very fascinated with macOS, and have never owned a Mac/book. So
 - Component Library - None!!
 - Styling Solution - SCSS and CSS Modules.
 
-[Roadmap](https://www.notion.so/MacOS-Web-Roadmap-274d703460564ea3bb5493b39bf8f886)
-
 # When will it be ready?
 
-![Who knows?](https://i.imgur.com/6xfbPzs.gif)
+![Who knows?]
 
 # Can I contribute?
 
